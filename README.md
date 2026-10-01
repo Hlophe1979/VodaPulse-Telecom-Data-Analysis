@@ -81,17 +81,6 @@ The analysis focuses particularly on:
 * Contract and payment patterns
 * ARPU differences across customer segments
 
-##  Project Structure
-
-```text
-VodaPulse-Data-Analysis/
-│
-├── VodaPulse EDA, Feature Engineering & ML.ipynb
-├── README.md
-└── data/
-    └── vodapulse_dataset.csv
-```
-
 > **Note:** Although the notebook filename references feature engineering and machine learning, the current project scope focuses on **Exploratory Data Analysis (EDA)**.
 
 ## 👤 Author
