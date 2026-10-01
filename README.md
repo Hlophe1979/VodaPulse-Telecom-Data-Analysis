@@ -66,7 +66,6 @@ The project follows these main steps:
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
 
 ##  Key Focus Areas
 
